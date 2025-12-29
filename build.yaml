@@ -21,5 +21,7 @@
 include:
   - board: nice_nano_v2
     shield: sofle_left
-  - board: adafruit_feather_nrf52840
+  - board: nice_nano_v2
+    shield: sofle_right
+  - board: nice_nano_v2
     shield: tester_pro_micro
